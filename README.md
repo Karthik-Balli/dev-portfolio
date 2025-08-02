@@ -1,12 +1,51 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🧑‍💻 Developer Portfolio – Karthik Balli
 
-Currently, two official plugins are available:
+A modern, responsive, and minimalistic single-page developer portfolio built with **React + Vite**, **TailwindCSS**, and **ShadCN UI**. This portfolio highlights a developer's profile, skills, education, experience, projects, and resume in a clean and accessible layout.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Project Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project serves as a personal developer portfolio designed to:
+
+- Showcase professional background and skills
+- Highlight key projects with links
+- Embed and allow download of a resume
+- Provide contact and social links
+- Be responsive, accessible, and easy to extend
+
+---
+
+## 🛠️ Technologies Used
+
+| Tech Stack         | Description                                  |
+|--------------------|----------------------------------------------|
+| **React + Vite**   | Fast, modern frontend tooling & UI rendering |
+| **TailwindCSS**    | Utility-first CSS framework for styling      |
+| **ShadCN UI**      | Reusable component library using Radix UI    |
+| **React Icons**    | For beautiful, customizable icons            |
+| **Atomic Design**  | Scalable component architecture              |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/dev-portfolio.git
+cd dev-portfolio
+
+npm install
+# or
+yarn install
+
+```
+
+## To Run the file
+```bash
+
+npm run dev
+
+```
