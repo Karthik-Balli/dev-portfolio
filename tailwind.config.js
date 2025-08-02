@@ -11,6 +11,7 @@ export default {
         warmBeige: '#f5efe6',
         warmYellow: '#f8e1a1',
         warmGray: '#a89f91',
+        accentPurple: '#9929EA',
       },
       fontFamily: {
         sans: ['Poppins', 'sans-serif'],
